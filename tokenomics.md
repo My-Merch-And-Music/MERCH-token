@@ -1,6 +1,6 @@
 # $MERCH Tokenomics
 
-## Total Supply: [INSERT YOUR SUPPLY HERE]
+## Total Supply: 1,000,000,000
 
 The $MERCH token is designed to empower artists and fund the long-term infrastructure of the MMAM platform. There is no presale, no VC allocation, and no private investor dump risk.
 
