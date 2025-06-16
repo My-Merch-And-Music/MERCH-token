@@ -45,14 +45,11 @@ Revenue from all platform activity remains with MMAM and is never diverted to fo
 
 ## 💰 Token Economics & Supply Logic
 
-- **Chain**: Solana  
-- **Supply**: Fixed  
-- **Minting**: Disabled  
-- **Tax**: Small transfer fee routed to treasury  
-- **LP**: 10% at launch  
-- **Reserves**: 90% held across MMAM-managed treasury wallets
+$MERCH operates with a fixed supply and deflationary mechanics via transfer tax. There is no mint function and no stealth inflation.
 
-Reserves are used for operational expansion — not personal enrichment. Token sales are strategically timed to build platform infrastructure, not dilute holders.
+A small transaction fee is embedded in all transfers. These fees support platform operations, marketing, and token liquidity over time.
+
+New token issuance is not possible. All utility and expansion are driven by platform usage, artist participation, and reinvestment—not speculation.
 
 ---
 
