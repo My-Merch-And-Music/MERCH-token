@@ -19,7 +19,7 @@ To empower independent artists by decentralizing merch profits, ticketing access
 - **Status:** Tentatively June 24 2025
 
 ## 📜 Key Documents
-- [Whitepaper](./whitepaper.pdf)
+- [Whitepaper](./whitepaper.md)
 - [Tokenomics](./tokenomics.md)
 - [Roadmap](./roadmap.md)
 - [Audit Plan](./audit-plan.md)
