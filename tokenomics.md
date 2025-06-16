@@ -1,33 +1,29 @@
 # $MERCH Tokenomics
 
-## Total Supply: 1,000,000,000
+## 🧱 Total Supply: 1,000,000,000
 
-The $MERCH token is designed to empower artists and fund the long-term infrastructure of the MMAM platform. There is no presale, no VC allocation, and no private investor dump risk.
+$MERCH is a fixed-supply token deployed on Solana to support artist empowerment, platform growth, and long-term infrastructure development through MMAM — a nonprofit initiative.
 
-## 📊 Token Allocation
+There is no presale, no VC access, and no private allocation. The token was launched publicly with liquidity locked at inception.
 
-- **10% Liquidity Pool (LP)**  
-  Initial LP added at launch and locked.
+---
 
-- **90% Treasury Reserves (Multi-Wallet)**  
-  Controlled by MMAM and used exclusively to fund:
-  - Venue development
-  - Tech infrastructure (MMAM App, ticketing, etc.)
-  - Artist support programs
-  - Ecosystem expansion
+## 💸 Transfer Tax: 5%
 
-## 💸 Transfer Tax
+All $MERCH transfers carry a 5% transaction fee:
 
-- **5% Tax on Transfers**
-  - 5% routed to the treasury
-  - No burn, no redistribution
-  - Used to gradually offset token supply drained by trading activity
+- 100% routed to treasury wallets  
+- Used to fund marketing, platform development, artist tools, and token liquidity  
+- No burn. No redistribution. No stealth inflation.
 
-## 🧠 Emission Policy
+---
 
-- No more than **2% of total supply** will be released in any 30-day window unless otherwise announced
-- All transactions will be publicly viewable via labeled wallets
+## 🛡 Trust & Governance
 
-## 🛡 Governance
+MMAM retains governance over treasury and platform development to ensure alignment with its nonprofit mission. All major treasury transactions will be public and traceable, with transparency maintained through labeled wallets and periodic updates.
 
-Governance is controlled by MMAM to ensure long-term protection of artist incentives, platform infrastructure, and treasury integrity. A DAO-lite advisory model may be implemented in the future.
+In future stages, a DAO-lite advisory system may be introduced to offer community feedback on treasury usage, artist support, and platform growth.
+
+---
+
+**$MERCH is purpose-built to serve creators — not speculators. All mechanics exist to fund utility, not hype.**
