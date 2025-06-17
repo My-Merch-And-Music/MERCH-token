@@ -41,4 +41,4 @@ Major treasury-related activity will be disclosed as needed. All transactions re
 
 ## Is this a DAO?
 
-Not at launch. Governance is centralized under MMAM to protect artists and infrastructure. A DAO-lite advisory board may be introduced later.
+Governance is intentionally centralized during launch to protect the mission, platform integrity, and artist-first incentives. As the ecosystem matures, we will explore community input mechanisms and advisory participation.
