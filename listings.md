@@ -11,7 +11,7 @@ $MERCH powers MMAM — a nonprofit platform supporting independent artists throu
 
 ## Links
 - Website: WWW.MYMERCHANDMUSIC.COM
-- Zealy: zealy.io/c/merchonsolana
+- Zealy: [zealy.io/c/merchonsolana](https://zealy.io/cw/merchonsolana)
 - Twitter: https://twitter.com/MERCHonSolana
 
 ## Logo
