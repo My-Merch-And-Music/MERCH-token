@@ -16,8 +16,10 @@ $MERCH powers MMAM — a nonprofit platform supporting independent artists throu
 - Twitter: https://twitter.com/MERCHonSolana
 
 ## Logo
-[Download Logo PNG](./logo/merch-logo.png)
-![MERCH Logo](./logo/merch-logo.png)
+[Download Logo PNG](./logo/logo%20512.png)
+
+![MERCH Logo](./logo/logo%20512.png)
+
 
 
 ## Token Contract Address
