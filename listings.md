@@ -17,6 +17,8 @@ $MERCH powers MMAM — a nonprofit platform supporting independent artists throu
 
 ## Logo
 [Download Logo PNG](./logo/merch-logo.png)
+![MERCH Logo](./logo/merch-logo.png)
+
 
 ## Token Contract Address
 To be added post-launch
