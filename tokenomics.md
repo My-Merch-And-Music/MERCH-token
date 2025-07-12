@@ -12,18 +12,14 @@ There is no presale, no VC access, and no private allocation. The token was laun
 
 All $MERCH transfers carry a 5% transaction fee:
 
-- 100% routed to treasury wallets  
-- Used to fund marketing, platform development, artist tools, and token liquidity  
+- **100% routed to treasury wallets**
+- Used to fund marketing, platform development, artist tools, and token liquidity
 - No burn. No redistribution. No stealth inflation.
 
 ---
 
 ## 🛡 Trust & Governance
 
-MMAM retains governance over treasury and platform development to ensure alignment with its nonprofit mission. All major treasury transactions will be public and traceable, with transparency maintained through labeled wallets and periodic updates.
+Governance is intentionally centralized under MMAM to protect the platform’s mission, ensure artist-first incentives, and maintain long-term structural integrity.
 
-In future stages, a DAO-lite advisory system may be introduced to offer community feedback on treasury usage, artist support, and platform growth.
-
----
-
-**$MERCH is purpose-built to serve creators — not speculators. All mechanics exist to fund utility, not hype.**
+> $MERCH is purpose-built to serve creators — not speculators. All mechanics exist to fund utility, not hype.
