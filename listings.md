@@ -7,7 +7,7 @@ MMAM / $MERCH
 MERCH
 
 ## Description
-$MERCH powers MMAM — a nonprofit platform supporting independent artists through affordable merchandising, giveaways, and infrastructure development on Solana. Built for transparency and real utility, $MERCH helps fund venues, artist tools, and the MMAM app while rewarding community engagement.
+$MERCH is the utility token powering MMAM — a nonprofit platform that helps independent artists thrive through affordable merchandising, community giveaways, and long-term infrastructure funding. Built on Solana for speed and transparency, $MERCH supports venue development, artist tools, the MMAM app, and community-based engagement models.
 
 ## Links
 - Website: WWW.MYMERCHANDMUSIC.COM
