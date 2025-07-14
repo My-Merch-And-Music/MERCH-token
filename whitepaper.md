@@ -1,139 +1,148 @@
-# $MERCH Whitepaper
+$MERCH WHITEPAPER
 
-**Supporting Independent Artists Through Blockchain**
+Supporting Independent Artists Through Blockchain
 
----
+⸻
 
-## 🧭 Mission & Vision
+🧭 Mission & Vision
 
-$MERCH exists to empower independent artists by giving them access to real infrastructure, sustainable revenue streams, and community-driven support — without the exploitation of traditional music industry models.
+$MERCH exists to empower independent artists by giving them access to real infrastructure, sustainable revenue streams, and community-driven support—without the exploitation that dominates the traditional music industry.
 
-Built on Solana, $MERCH fuels *My Merch And Music (MMAM)*, a nonprofit platform focused on artist equity, affordable merchandising, and long-term creative independence.
+Built on Solana, $MERCH fuels My Merch And Music (MMAM), a nonprofit platform focused on artist equity, affordable merchandising, and long-term creative independence.
 
-Our mission: turn community energy into creative empowerment, and prove blockchain’s true utility beyond hype.
+We aim to demonstrate the true utility of blockchain beyond speculation by turning community energy into creative empowerment.
 
----
+⸻
 
-## 🎯 Platform Purpose & Core Features
+🎯 Platform Purpose & Core Features
 
-The MMAM platform is built on five pillars:
-- **At-Cost Merchandise**: Artists produce merch affordably through MMAM's nonprofit system.
-- **Token-Based Giveaways**: Weekly token-powered campaigns fund artists and grow awareness.
-- **Artist Visibility**: MMAM offers exposure, tools, and community support.
-- **Real Utility**: $MERCH is used for giveaways, donations, and exclusive fan merchandise — with ticketing on the roadmap.
-- **Infrastructure Capitalization**: Revenue is funneled into Nexus Capital Holdings to fund long-term artist-serving infrastructure.
+MMAM is built on five core pillars:
+	•	Affordable Merchandise Access
+Artists can access low-cost merch production, with premium members receiving true at-cost pricing through the MMAM platform.
+	•	Nonprofit Revenue Engine
+Weekly token-based giveaways and artist-driven sales fuel a self-sustaining nonprofit.
+	•	Artist Visibility
+MMAM helps musicians gain exposure through integrated marketing and platform tools.
+	•	Real Token Utility
+$MERCH is used for giveaways, donations, merch, and (soon) event ticketing.
+	•	Long-Term Capitalization
+Profits are invested into Nexus Capital Holdings to fund venues, tools, and infrastructure for the creative class.
 
----
+⸻
 
-## 🔁 How $MERCH Works
+💠 How $MERCH Works
 
-### 🎉 Giveaway Engine
-Users enter weekly giveaways with $MERCH tokens. A portion is awarded, the rest fuels the ecosystem — providing liquidity, stability, and creative capital.
+🔁 Giveaway Engine
 
-### 🛍 Token Utility
-- Giveaway participation  
-- Custom fan apparel  
-- Event ticketing (future)  
-- Artist reward mechanisms
+Weekly giveaways allow community members to enter using $MERCH tokens. A portion of tokens is awarded to a winner, while the rest remains within the ecosystem to support long-term operations, price stability, and creative development.
 
-All $MERCH spent is liquidated for operational use, with profits reinvested into Nexus Capital Holdings — generating value for MMAM and its artists.
+🛍 Token Utility
 
-### 💼 Revenue Discipline
-Revenue from all platform activity remains with MMAM and is never diverted to founders. Profits are used to purchase Nexus units, which generate long-term distributions reinvested into artist programs.
+$MERCH can be used for:
+	•	Giveaway participation
+	•	Custom fan apparel
+	•	Donations to support artists
+	•	Future integrations: event tickets, NFT access, exclusive merch
 
----
+All tokens used in platform transactions are liquidated to cover operating costs. Profits remain within MMAM and are invested through Nexus Capital Holdings.
 
-## 💰 Token Economics & Supply Logic
+⸻
 
-$MERCH operates with a fixed supply and deflationary mechanics via transfer tax. There is no mint function and no stealth inflation.
+💼 Revenue Discipline
 
-A small transaction fee is embedded in all transfers. These fees support platform operations, marketing, and token liquidity over time.
+Revenue from merch, ticketing, and token-based sales—regardless of payment source—stays within MMAM.
+	•	No founder withdrawals
+	•	No third-party shareholder dividends
+	•	No speculative enrichment
 
-New token issuance is not possible. All utility and expansion are driven by platform usage, artist participation, and reinvestment—not speculation.
+MMAM uses revenue to purchase Nexus units, which generate annual distributions returned to the nonprofit for artist use.
 
----
+⸻
 
-## 🌱 Community Strategy
+💰 Token Economics & Supply Logic
 
-- Artist-led growth via merch and fan engagement  
-- Grassroots following through giveaways and collabs  
-- Venue integrations with token incentives under development  
-- DAO-lite structure for community input in future
+$MERCH has a fixed supply of 1,000,000,000 tokens.
+	•	No minting
+	•	No stealth inflation
+	•	No presale, VC access, or private allocations
 
----
+A 5% transfer fee is applied to all token transactions:
+	•	100% routed to treasury-controlled wallets
+	•	Used to fund platform operations, marketing, liquidity, and artist tools
+	•	No burn or redistribution mechanisms
 
-## 🛤 Roadmap Overview
+This model allows soft price control and long-term utility alignment.
 
-> *Note: Roadmap subject to change based on legal, market, and operational factors.*
+⸻
 
-### Phase 1 – Launch & Foundation
-- Launch on Solana (Raydium)
-- Initial giveaways
-- Community onboarding + guides
-- Website, GitHub, and whitepaper live  
-- Target MC: $500K
+🌱 Community Strategy
+	•	Artist-Led Growth
+Musicians drive adoption by offering merch, participating in giveaways, and engaging with fans.
+	•	Grassroots Expansion
+Campaigns, social engagement, and events build organic growth and community cohesion.
+	•	In-Venue Token Use (Future)
+$MERCH may be used for loyalty rewards, tips, or purchases at physical MMAM venues.
 
-### Phase 2 – Platform Integration
-- Onboard 50+ artists
-- MMAM nonprofit structuring
-- Begin Nexus unit acquisition  
-- Target MC: $1.5M
+⸻
 
-### Phase 3 – Scaled Expansion
-- 15K users
-- Expand rewards and giveaways
-- Live events & artist promotion
-- Target MC: $10M
+🛤 Roadmap Overview
 
-### Phase 4 – Infrastructure Development
-- NFT integration
-- U.S. venue acquisition via Nexus
-- App expansion & international outreach
-- Target MC: $100M
+(Subject to change based on legal, strategic, or operational needs)
 
-### Phase 5 – Global Scale & Governance
-- Global artist org partnerships
-- Showcase funding
-- Endowment reinvestment
-- DAO-lite governance exploration
-- Target MC: $10B
+✅ Phase 1: Launch & Foundation
+	•	Launch on Solana via Raydium
+	•	Liquidity locked via LP token burn
+	•	Community onboarding and giveaways begin
+	•	Whitepaper, GitHub, and educational content released
+	•	Zealy campaign and social channels activated
 
----
+🔄 Phase 2: Platform Integration
+	•	Artist merch drops go live
+	•	Token used for merch, donations, and fan rewards
+	•	Development begins on MMAM app (via famous.ai)
+	•	Revenue from merch/tokens flows into Nexus Capital Holdings
 
-## 🧱 Technical Stack
+🏗 Phase 3: Ecosystem Expansion
+	•	15,000+ user growth goal
+	•	Branded events and artist onboarding expand
+	•	Strategic partnerships with merch vendors, indie labels, and creators
 
-- **Blockchain**: Solana  
-- **Liquidity**: Raydium  
-- **App Development**: famous.ai  
-- **Future Tech**: NFTs, token-gated access, artist dApps
+♾ Phase 4: Infrastructure & Legacy
+	•	Begin venue builds through Nexus
+	•	NFT integration, token-gated experiences roll out
+	•	Publish continuity plans to secure MMAM’s long-term artist support
 
----
+⸻
 
-## 🔄 Revenue Allocation
+🧱 Technical Stack
+	•	Blockchain: Solana
+	•	Liquidity & Rewards: Raydium
+	•	Future Tech: NFT drops, token access layers, artist-facing tools and dApps
 
-Revenue is reinvested into:
-- Platform ops & infrastructure  
-- Artist support programs  
-- Marketing & community building  
-- Nexus Capital units  
-- Market and LP stability
+⸻
 
-No funds go to founders or external shareholders.
+🔄 Revenue Allocation
 
----
+All platform revenue is used to fund:
+	•	Operations: Fulfillment, logistics, software
+	•	Artist Tools: Merch systems, media support, app development
+	•	Infrastructure: Venue development under Nexus
+	•	Community Growth: Events, sponsorships, incentives
+	•	Market Health: Liquidity support and controlled token release
 
-## 🌍 Future Vision
+⸻
 
-- A national nonprofit artist-owned ecosystem  
-- Blockchain-powered merch, ticketing, and distribution  
-- Global partnerships built on trust and long-term equity  
-- Infrastructure for generations of creators
+🌍 Long-Term Vision
+	•	A national artist-owned creative ecosystem
+	•	MMAM-operated nonprofit venues and merch hubs
+	•	Blockchain used for empowerment—not speculation
+	•	Global partnerships and long-term community governance strategies
 
----
+⸻
 
-## 🧭 Get Involved
-
-- Join the giveaways  
-- Order merch  
-- Follow the movement  
-- Help reshape the future of independent music with $MERCH
+🧭 Get Involved
+	•	Set up your Solana wallet
+	•	Enter a weekly giveaway
+	•	Order merch or submit designs
+	•	Follow us across socials
+	•	Watch MMAM evolve into the artist-first platform the industry never built
