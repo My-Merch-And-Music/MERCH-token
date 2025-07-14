@@ -1,21 +1,18 @@
-# $MERCH Liquidity Commitment
+🔐 $MERCH Liquidity Lock Plan
 
-At launch, 10% of the $MERCH supply will be paired with SOL and deposited into a Raydium liquidity pool.
+At launch, a liquidity pool was created on Raydium pairing $MERCH with SOL. The LP tokens received from this deployment were permanently burned, ensuring the liquidity can never be withdrawn or altered.
 
-To ensure absolute trust and transparency, the corresponding LP tokens will be **permanently burned**, making this liquidity **irrevocable** and fully decentralized.
+🔥 Why Burn Instead of Lock?
 
-## Why Burn Instead of Lock?
+Burning LP tokens offers stronger guarantees than third-party lock services:
+	•	Irrevocable: LP tokens are destroyed permanently and cannot be recovered
+	•	Trustless: No custodian, no unlock date, no rollback
+	•	Immutable: Guarantees that initial liquidity will always remain on-chain
 
-Burning LP tokens:
-- Eliminates all withdrawal risk permanently
-- Removes the need for third-party locking services
-- Creates an immutable, trustless base layer for $MERCH trading
+This approach protects traders from rug pulls and provides lasting confidence in the integrity of the $MERCH market.
 
-## Supporting Treasury Model
+✅ Verification
+	•	Raydium Pool Link (Coming Soon)
+	•	LP Burn TX Link (Coming Soon)
 
-While only 10% of the supply is added to LP, an ongoing **5% transfer tax** allows MMAM to:
-- Support token liquidity dynamically
-- Reintroduce supply gradually and responsibly
-- Fund infrastructure without destabilizing the price
-
-The combination of **burned LP + treasury emissions + nonprofit reinvestment** makes $MERCH a long-term artist-backed token with no predatory mechanics.
+These links will be updated immediately post-launch
