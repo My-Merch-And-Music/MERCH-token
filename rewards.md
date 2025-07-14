@@ -18,14 +18,16 @@ The MMAM $MERCH giveaway rewards real supporters who engage with our mission to 
 
 Your Zealy XP determines your entry multiplier:
 
-Weekly XP	Multiplier
-0–49 XP	1× Entry
-50–79 XP	2× Entries
-80–109 XP	3× Entries
-110–139 XP	4× Entries
-140+ XP	5× Entries 🎯 (100% engagement)
 
-	•	XP resets weekly for giveaway purposes (your all-time XP remains visible on Zealy).
+| Weekly XP | Multiplier |
+|------------|------------|
+| 0–49 XP | 1x Entry |
+| 50–79 XP | 2x Entries |
+| 80–109 XP | 3x Entries |
+| 110–139 XP | 4x Entries |
+| 140 XP | 5x Entries (100% engagement) |
+
+XP resets weekly for giveaway purposes (your all-time XP remains visible on Zealy).
 
 ⸻
 
