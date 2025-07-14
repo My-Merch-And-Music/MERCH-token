@@ -2,6 +2,14 @@
 
 Official documentation repo for the $MERCH token by My Merch And Music.
 
+![License: CC0](https://img.shields.io/badge/license-CC0%201.0-lightgrey.svg)
+![Token Type: SPL](https://img.shields.io/badge/token-SPL-blue.svg)
+![Launch: Pending](https://img.shields.io/badge/status-Mainnet%20Pending-yellow.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/My-Merch-And-Music/MERCH-token?style=social)
+![Chain: Solana](https://img.shields.io/badge/chain-Solana-purple.svg)
+![Governance: Centralized (MMAM)](https://img.shields.io/badge/governance-Centralized%20(MMAM)-orange.svg)
+![Nonprofit Backed](https://img.shields.io/badge/model-Nonprofit%20Backed-brightgreen.svg)
+
 ## 🎵 $MERCH Token – My Merch and Music
 
 Welcome to the official GitHub repository for the $MERCH token, launched by MMAM (My Merch and Music).
