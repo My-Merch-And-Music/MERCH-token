@@ -28,14 +28,26 @@ To empower independent artists by decentralizing merch profits, ticketing access
 
 ---
 
-## 📜 Key Documents
+### 📚 Documentation
 
-- [Whitepaper](./whitepaper.md)  
-- [Tokenomics](./tokenomics.md)  
-- [Roadmap](./roadmap.md)  
-- [Audit Plan](./audit-plan.md)  
-- [Liquidity Lock Plan](./lp-lock-plan.md)  
+Explore the full $MERCH documentation below:
 
+### 🔧 Core Project Files
+- [Whitepaper](./whitepaper.md)
+- [Tokenomics](./tokenomics.md)
+- [Roadmap](./roadmap.md)
+
+### 🔐 Trust & Security
+- [Audit Plan](./audit-plan.md)
+- [Liquidity Lock Plan](./lp-lock-plan.md)
+
+### 🎁 Community & Engagement
+- [Giveaway Rules](./giveaway-rules.md)
+- [Community Overview](./community.md)
+- [FAQ](./faq.md)
+
+### 🧾 Listings & Submission
+- [Listings Information](./listings.md)
 ---
 
 ## 🌐 Official Links
