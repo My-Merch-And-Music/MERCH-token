@@ -1,11 +1,11 @@
 # $MERCH / MMAM Media Kit
 
 ## ✅ Logos & Visual Assets (To be added)
-- Transparent PNG (512x512 or larger)
+- Transparent PNG 
 - Square social media icon
-- Vector file (SVG or EPS)
+- Vector file
 - Twitter/X header-style banner image
-- Branded project color codes (if applicable)
+- Branded project color codes
 
 ---
 
@@ -15,7 +15,7 @@
 $MERCH is a Solana-based utility token powering MMAM, a nonprofit platform for independent artists. No VC. No presale. Just real infrastructure and artist-first growth.
 
 ### 📌 Long Description
-MMAM (My Merch And Music) is a nonprofit platform built to support independent artists through affordable merch, weekly giveaways, and long-term venue and tech infrastructure. Powered by $MERCH — a fixed-supply token on Solana — MMAM reinvests all revenue back into creator growth via Nexus Capital Holdings. No private allocation. No hype. Just real use and future-facing development.
+MMAM (My Merch And Music) is a nonprofit platform built to support independent artists through affordable merch, weekly giveaways, and long-term venue and tech infrastructure. Powered by $MERCH, a fixed-supply token on Solana. MMAM reinvests all revenue back into creator growth via Nexus Capital Holdings. No private allocation. No hype. Just real use and future-facing development.
 
 ---
 
@@ -32,9 +32,9 @@ MMAM (My Merch And Music) is a nonprofit platform built to support independent a
 ---
 
 ## 🗣 Team Statement
-“MMAM is structured to exist beyond any founder, using $MERCH to permanently support artists — not speculators. We believe utility and transparency are the future of crypto.”
+“MMAM is structured to exist beyond any founder, using $MERCH to permanently support artists, not speculators. We believe utility and transparency are the future of crypto.”
 
 ---
 
 ## 📬 Media Contact
-DM us @MERCHonSolana
+DM us @MERCHonSolana on X, IG or TikTok
