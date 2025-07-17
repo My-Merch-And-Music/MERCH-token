@@ -1,61 +1,73 @@
----
+# 🎵 $MERCH Token Info Deck
 
-# \$MERCH Token Info Deck
-
-## 🎯 Project Summary
-
-**\$MERCH** is a Solana-based utility token powering MMAM (My Merch And Music), a nonprofit platform built to empower independent artists with real tools, real revenue, and long term infrastructure support.
-
-* **Chain**: Solana
-* **Total Supply**: 1,000,000,000
-* **Utility**: Giveaways, artist merch, ticketing, app access, venue integration
-* **Launch**: Targeting late July 2025
-
-## 🚀 Why \$MERCH?
-
-Traditional music platforms exploit creators. \$MERCH flips the script by enabling artist-owned infrastructure, decentralized merch profits, and community-powered distribution all backed by a fixed-supply token.
-
-## 🧱 Token Mechanics
-
-* **Fixed Supply**: 1B tokens, no minting
-* **Transfer Fee**: 5% (100% goes to treasury)
-* **No Burn / No Redistribution**: Sustainable, utility-focused economics
-* **Treasury Ownership**: Held by MMAM nonprofit; usage tied to artist-first objectives
-
-## 💡 Use Cases
-
-* Enter weekly **raffles** with multipliers via Zealy
-* Claim **exclusive merch drops** from MMAM artists and custom shirts through MMAM
-* (Coming Soon) Buy **event tickets** and access token-gated perks
-* Support infrastructure development: venues, artist tools, MMAM app
-
-## 🔐 Trust Model
-
-* LP tokens burned at launch (Raydium)
-* No presale, VC allocation, or team wallets
-* Treasury controlled by MMAM, directed through Nexus Capital Holdings for venue builds and infrastructure
-
-## 📈 Ecosystem Overview
-
-* **MMAM**: Nonprofit artist platform (merch + discovery)
-* **Nexus**: For-profit holdings partner that invests MMAM proceeds into long-term assets to distribute back to MMAM artists and investors
-* **Zealy**: XP-based quests + weekly giveaways
-
-## 🌍 Vision
-
-* Artist-owned venues
-* National artist merch and ticketing platform
-* Nonprofit ecosystem funding creators over speculators
-
-## 📚 Learn More
-
-* [Whitepaper](./whitepaper.md)
-* [Tokenomics](./tokenomics.md)
-* [Roadmap](./roadmap.md)
-* [Giveaway Rules](./giveaway-rules.md)
-* [Website](https://www.mymerchandmusic.com)
-* [GitHub](https://github.com/My-Merch-And-Music/MERCH-token)
+## 🔥 Mission
+Empower independent artists through community-driven crypto tools. $MERCH fuels merch drops, giveaways, ticketing, and venue development — all under MMAM, a nonprofit platform built for creators.
 
 ---
 
-**MMAM** — Infrastructure for Artists. Not Institutions.
+## 🧱 Token Summary
+- **Token Name:** $MERCH  
+- **Chain:** Solana  
+- **Type:** SPL  
+- **Total Supply:** 1,000,000,000  
+- **Transfer Tax:** 5%  
+- **Governance:** Centralized under MMAM  
+- **Launch:** TBA (targeting July 2025)  
+- **Treasury:** Held by MMAM for artist-first initiatives
+
+---
+
+## 🎯 Utility
+- 🔹 Weekly token-based giveaways  
+- 🔹 Artist-exclusive merch purchases  
+- 🔹 Donations to support indie creators  
+- 🔹 (Future) Ticket purchases + venue rewards  
+- 🔹 Community XP multipliers via Zealy  
+
+---
+
+## 👕 Raffles & Rewards
+- 🎟 Weekly paid raffles (entries via $MERCH)  
+- 💥 Custom MMAM shirt giveaway for entrants  
+- 🔁 Zealy XP boosts your multiplier (1x–5x)  
+- 🛍 Shirt winner submits their own graphic!
+
+---
+
+## 💰 Revenue Flow
+- All revenue (merch, token, ticketing) stays in MMAM  
+- MMAM reinvests into Nexus Capital Holdings (venue infrastructure)  
+- No private profit or stealth enrichment  
+- Tokens used are liquidated to fund operations
+
+---
+
+## 🛡 Trust & Transparency
+- Liquidity locked permanently via burn  
+- No VC, no presale, no private allocation  
+- Wallets and treasury flow auditable on-chain  
+- Transparent docs via GitHub
+
+---
+
+## 🌍 Long-Term Vision
+- A nonprofit-run music ecosystem  
+- Artist-owned venues and merch pipelines  
+- Global expansion of creator-first infrastructure  
+- Honest blockchain adoption without hype
+
+---
+
+## 🔗 Official Links
+- **Website:** [mymerchandmusic.com](https://mymerchandmusic.com)  
+- **GitHub:** [MERCH-token](https://github.com/My-Merch-And-Music/MERCH-token)  
+- **Zealy:** [zealy.io/c/merchonsolana](https://zealy.io/c/merchonsolana)  
+- **Twitter/X:** [@MERCHonSolana](https://twitter.com/MERCHonSolana)  
+- **Telegram:** [t.me/MERCHonSOLANA](https://t.me/MERCHonSOLANA)
+
+---
+
+## 📝 Disclaimers
+- This document is for informational purposes only.  
+- Not financial advice. No guarantee of value or utility.  
+- Roadmap, use cases, and integrations are subject to change.
