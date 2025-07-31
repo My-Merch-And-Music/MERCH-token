@@ -47,10 +47,13 @@ Weekly giveaways allow community members to enter using $MERCH tokens. A portion
 Current and anticipated $MERCH use cases include: &nbsp;
 
 
-• Giveaway Participation &nbsp;
-• Custom Fan Apparel: Fans can request unique merch items by paying a platform-set fee in $MERCH. &nbsp;
-• Future Use: Integration with event ticketing and platform-based artist merch is in development. &nbsp;
-All $MERCH used in transactions is liquidated to fund nonprofit operations. These proceeds stay within MMAM to sustain its mission and infrastructure.
+• Giveaway Participation 
+
+• Custom Fan Apparel: Fans can request unique merch items by paying a platform-set fee in $MERCH. 
+
+• Future Use: Integration with event ticketing and platform-based artist merch is in development. 
+
+*All $MERCH used in transactions may be liquidated to fund nonprofit operations. These proceeds stay within MMAM to sustain its mission and infrastructure.*
 
 
 
