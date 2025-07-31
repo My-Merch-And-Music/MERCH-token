@@ -20,12 +20,13 @@ The My Merch And Music platform is built around five pillars: &nbsp;
 
 
 • At-Cost Merchandise: Artists can produce merch affordably through MMAM’s infrastructure. 
-&nbsp;
+
 • Mission-Aligned Revenue Engine: Weekly token-based giveaways and artist-driven sales fuel a sustainable, artist-focused platform. 
-&nbsp;
+
 • Artist Visibility: MMAM helps musicians gain exposure through integrated marketing and platform tools.
 
-• Real Token Utility: $MERCH can be used for giveaways, donations, and unique fan merchandise with future use cases tied to ticketing and commerce. &nbsp;
+• Real Token Utility: $MERCH can be used for giveaways, donations, and unique fan merchandise with future use cases tied to ticketing and commerce. 
+
 • Ecosystem Support: Token-powered engagement helps sustain MMAM’s operations and tools, with long-term plans to restructure as a nonprofit.
 
 
